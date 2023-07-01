@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 /**
  * dynamic array chứa static array. static array có size cố định. Khi chúng ta new  1 dynamic array thì nó tạo ra 1 static array bên trong dynamic array để nó biết đưuọc có bao nhiêu phần tử. Ví dụ như khi dynamic array khai báo 10 phần tử ban đầu, thì static  array trong dynamic array sẽ có length là 0. khi ta dùng dynamicArray.length nó sẽ lấy size của static array bên trong nó . khi thêm 1 phần tử thì static array mới sẽ được tạo ra và copy từ static array cũ sang static array mới.
- *
+ * <p>
  * các phần tử trong array phải nằm cạnh nhau. nếu trong bộ nhớ còn 8 ô cạnh không nằm cạnh nhau thì cũng không thể lưu mảng có 8 phần tử được nó sẽ tìm những vị tr có 8 ô liền kề nhau rồi insert vào. nếu thê 1 phần từ là 9 element thì nó sẽ tìm 1 chỗ có 9 element rồi nó đẩy vào
  */
 public class DynamicArray<T> implements Iterable {
@@ -137,5 +137,13 @@ public class DynamicArray<T> implements Iterable {
             stringBuilder.append(arr[size - 1]).append("]");
             return stringBuilder.toString();
         }
+    }
+
+    public T removeAtWithoutMoving(int removeIndex) {
+        if (removeIndex < 0 || removeIndex >= size) throw new IndexOutOfBoundsException();
+        T item =arr[removeIndex];
+        arr[removeIndex] = null;
+        capacity = --size;
+        return item;
     }
 }
