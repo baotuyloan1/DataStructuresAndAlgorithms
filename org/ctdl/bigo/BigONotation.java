@@ -1,4 +1,4 @@
-package org.ctdl;
+package org.ctdl.bigo;
 
 import java.util.Scanner;
 

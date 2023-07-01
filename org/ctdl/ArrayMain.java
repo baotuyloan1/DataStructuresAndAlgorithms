@@ -1,7 +1,6 @@
 package org.ctdl;
 
-import java.util.ArrayList;
-import java.util.List;
+import org.ctdl.arraylistdemo.DynamicArray;
 
 /**
  * @author BAO
