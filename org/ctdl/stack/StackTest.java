@@ -10,7 +10,7 @@ public class StackTest {
         int numberOfOperation = 10000000;
 
         //        ArraybasedStack
-        StackADT<Integer> arrayBasedStack = new ArrayBasedStack<>(10);
+        StackADT<Integer> arrayBasedStack = new ArrayBasedStack<>(100);
         long startTime = System.nanoTime();
         for (int i = 0; i < numberOfOperation; i++) {
             arrayBasedStack.push(i);
@@ -19,7 +19,7 @@ public class StackTest {
             arrayBasedStack.pop();
         }
         long endTime = System.nanoTime();
-        System.out.println("Array based with init size = 10 stack took: " + (endTime - startTime));
+        System.out.println("Array based with init size = 100 stack took: " + (endTime - startTime));
 
 
 //        ArraybasedStack

@@ -1,0 +1,19 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8³¸İ1
+R
+java:S1854"5Remove this useless assignment to local variable "b".(’–Ç­8³¸İ1
+H
+java:S1481"&Remove this unused "a" local variable.(–ÎåÌûÿÿÿÿ8³¸İ1
+C
+java:S1481"&Remove this unused "b" local variable.(’–Ç­8³¸İ1
+E	java:S108B")Either remove or fill this block of code.(¯Äâ8³¸İ1
+E	java:S108L")Either remove or fill this block of code.(¯Äâ8Ã¸İ1
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Å¸İ1
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8Å¸İ1
+E	java:S108l")Either remove or fill this block of code.(üõÏœ8Æ¸İ1
+J	java:S108p")Either remove or fill this block of code.(ñ¯×úúÿÿÿÿ8Ç¸İ1
+E	java:S108{")Either remove or fill this block of code.(æ†á8Ç¸İ1
+J	java:S108")Either remove or fill this block of code.(‹Ø­èùÿÿÿÿ8È¸İ1
+F
+java:S1659‰"#Declare "hight" on a separate line.(³ºÑùÿÿÿÿ8É¸İ1
