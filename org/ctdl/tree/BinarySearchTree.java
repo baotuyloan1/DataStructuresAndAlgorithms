@@ -1,5 +1,8 @@
 package org.ctdl.tree;
 
+import org.ctdl.stack.LinkedListBasedStack;
+import org.ctdl.stack.StackADT;
+
 import java.util.Iterator;
 
 /**
@@ -94,6 +97,47 @@ public class BinarySearchTree<T extends Comparable<T>> implements TreeADT<T> {
 
     @Override
     public Iterator<T> traverse(TreeTraverseType type) {
+
+        switch (type) {
+            case PRE_ORDER -> preOrderTraverse();
+            case IN_ORDER -> inOrderTraverse();
+            case POST_ORDER -> postOrderTraverse();
+            default -> {
+                return null;
+            }
+        }
+        return null;
+    }
+
+    private Iterator<T> levelOrderTraverse() {
+        return null;
+    }
+
+    private Iterator<T> postOrderTraverse() {
+        return null;
+    }
+
+    private Iterator<T> inOrderTraverse() {
+        return null;
+    }
+
+    private Iterator<T> preOrderTraverse() {
+        final int expectedCount = nodeCount;
+        StackADT stack = new LinkedListBasedStack();
+        stack.push(root);
+
+//        return new Iterator<T>() {
+//            @Override
+//            public boolean hasNext() {
+//                if (expectedCount !=nodeCount) throw  new ConcurrentModificationException();
+//                return root !=null && stack.isEmpty();
+//            }
+//
+//            @Override
+//            public T next() {
+//                return null;
+//            }
+//        }
         return null;
     }
 

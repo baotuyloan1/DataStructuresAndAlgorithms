@@ -6,6 +6,7 @@ package org.ctdl.bigo;
  */
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -33,12 +34,19 @@ import java.util.List;
  */
 public class ArrayBigO {
     public static void main(String[] args) {
-        int[] a = new int[3];
-        System.out.println(a[2]);
+//        int[] a = new int[3];
+//        System.out.println(a[2]);
+//
+//        String[] b = new String[3];
+//        System.out.println(b[2]);
+//        List c = new ArrayList();
+//        c.remove(1);
 
-        String[] b = new String[3];
-        System.out.println(b[2]);
-        List c = new ArrayList();
-        c.remove(1);
+        List<Integer> listA = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
+        List<Integer> listB = Arrays.asList(1, 2, 3, 4, 5, 6);
+
+        // Kiểm tra xem mảng A có chứa tất cả các phần tử của mảng B không
+        boolean containsAll = listA.containsAll(listB);
+        System.out.println(containsAll);
     }
 }

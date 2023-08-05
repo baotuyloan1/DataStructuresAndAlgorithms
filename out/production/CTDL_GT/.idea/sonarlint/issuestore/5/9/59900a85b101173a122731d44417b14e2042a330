@@ -1,0 +1,15 @@
+
+b	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.( à»¦8âø„„‘1
+b	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.( à»¦8âø„„‘1
+b	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.( à»¦8âø„„‘1
+b	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.( à»¦8âø„„‘1
+p
+java:S1192C"SDefine a constant instead of duplicating this literal "Empty linked list!" 4 times.( à»¦8òø„„‘1
+Y
+java:S1854"<Remove this useless assignment to local variable "nextNode".(ÌïÀÀ8òø„„‘1
+J
+java:S1481"-Remove this unused "nextNode" local variable.(ÌïÀÀ8òø„„‘1
+U
+java:S1854q"8Remove this useless assignment to local variable "node".(¤³çæ8ù„„‘1
+l
+java:S2272Ì"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(žÓÔç8ù„„‘1

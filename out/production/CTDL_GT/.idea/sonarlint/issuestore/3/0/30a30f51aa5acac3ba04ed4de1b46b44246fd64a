@@ -1,0 +1,14 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ð½û‰üÿÿÿÿ8¡Óþ„‘1
+Q
+java:S3740q"/Provide the parametrized type for this generic.(Á»Îèÿÿÿÿÿ8°Óþ„‘1
+t	java:S127O"XRefactor the code in order to not assign to this loop counter from within the loop body.(ýôþÜ8°Óþ„‘1
+c
+java:S2259c"AA "NullPointerException" could be thrown; "obj" is nullable here.(ñ³ÖÝøÿÿÿÿ8·Óþ„‘1
+v
+java:S3012A"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(„¬ŒÆ8ÀÓþ„‘1
+N
+java:S5261b"1Add explicit curly braces to avoid dangling else.(á¢–¬8ÀÓþ„‘1
+p
+java:S2272z"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ÞÄ•ùÿÿÿÿ8ÀÓþ„‘1

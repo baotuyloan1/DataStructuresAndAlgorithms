@@ -1,0 +1,23 @@
+
+i
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ýØçùÿÿÿÿ8îÿ¢á–1
+¤
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(–ÑøŠ8ïÿ¢á–1
+£
+java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Þ‚ÄÔýÿÿÿÿ8ôÿ¢á–1
+g
+java:S1659"EDeclare "capacity" and all following declarations on a separate line.(íÔŸ—úÿÿÿÿ8ôÿ¢á–1
+P
+java:S1068"4Remove this unused "DEFAULT_CAPACITY" private field.(Âð8üÿ¢á–1
+R
+java:S1068"7Remove this unused "DEFAULT_LOAD_FACTOR" private field.(“¦A8üÿ¢á–1
+K
+java:S1068".Remove this unused "loadFactor" private field.(½¼‘æ8üÿ¢á–1
+J
+java:S1068"(Remove this unused "size" private field.(íÔŸ—úÿÿÿÿ8üÿ¢á–1
+N
+java:S1068",Remove this unused "capacity" private field.(íÔŸ—úÿÿÿÿ8üÿ¢á–1
+O
+java:S1068"-Remove this unused "threshold" private field.(íÔŸ—úÿÿÿÿ8üÿ¢á–1
+F
+java:S1068")Remove this unused "table" private field.(ó»²á8üÿ¢á–1

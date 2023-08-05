@@ -1,0 +1,18 @@
+
+Q
+java:S3740y"/Provide the parametrized type for this generic.(Ùìâÿÿÿÿÿ8‰†‚â–1
+L
+java:S1066("/Merge this if statement with the enclosing one.(¹Æôï8‹†‚â–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜Äº†8Ì†‚â–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç‡Í¸ûÿÿÿÿ8Í†‚â–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Í†‚â–1
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(Ä¢ôÿÿÿÿÿ8Õ†‚â–1
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(Ø–ªùÿÿÿÿ8Õ†‚â–1
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ö†‚â–1
+G
+java:S1197j"*Move the array designators [] to the type.(ôºåˆ8Ö†‚â–1
+N
+java:S1197l",Move the array designators [][] to the type.(°æËûÿÿÿÿ8Ö†‚â–1
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ñ›ò¾øÿÿÿÿ8×†‚â–1
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(£ıíÌşÿÿÿÿ8Ù†‚â–1
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(£ıíÌşÿÿÿÿ8Ù†‚â–1
