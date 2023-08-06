@@ -1,0 +1,20 @@
+
+
+java:S4165G"bRemove this useless assignment; "node" already holds the assigned value along all execution paths.(ıÁÚÛ8ñÓÅ–1
+[
+java:S3516c"9Refactor this method to not always return the same value.(şõ©õüÿÿÿÿ8ñÓÅ–1
+U
+java:S1854A"8Remove this useless assignment to local variable "node".(¤³çæ8÷ÓÅ–1
+U
+java:S1854G"8Remove this useless assignment to local variable "node".(ıÁÚÛ8÷ÓÅ–1
+L
+java:S1656G"/Remove or correct this useless self-assignment.(ıÁÚÛ8øÓÅ–1
+c
+java:S1854}"ARemove this useless assignment to local variable "expectedCount".(ˆØÀ‹üÿÿÿÿ8şÓÅ–1
+T
+java:S1481}"2Remove this unused "expectedCount" local variable.(ˆØÀ‹üÿÿÿÿ8ÿÓÅ–1
+Y	java:S125"<This block of commented-out lines of code should be removed.(ÓÆÖ‰8€‘ÓÅ–1
+N
+java:S1144[",Remove this unused private "maxLeft" method.(š¸úùÿÿÿÿ8‚‘ÓÅ–1
+T
+java:S1144p"7Remove this unused private "levelOrderTraverse" method.(ƒŸÔ±8‚‘ÓÅ–1
