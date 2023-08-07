@@ -1,0 +1,19 @@
+
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8½ðöÝœ1
+r
+java:S1149;"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ö³¹­ÿÿÿÿÿ8½ðöÝœ1
+m
+java:S1149<"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÿÙ­8½ðöÝœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚› ýýÿÿÿÿ8¾ðöÝœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Úú°Êûÿÿÿÿ8¾ðöÝœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ8¿ðöÝœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ýÿÿÿÿ8¿ðöÝœ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÓÃÙè8¿ðöÝœ1
+\
+java:S1854="?Remove this useless assignment to local variable "expression1".(ÿ²ô†8§ç†Þœ1
+M
+java:S1481="0Remove this unused "expression1" local variable.(ÿ²ô†8å¨ùÝœ1
+J	java:S108C")Either remove or fill this block of code.(Åþÿ‰øÿÿÿÿ8ÁðöÝœ1
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(Ö‹ù„þÿÿÿÿ8ÃðöÝœ1

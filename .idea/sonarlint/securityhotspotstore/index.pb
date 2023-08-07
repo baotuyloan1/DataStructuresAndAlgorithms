@@ -19,3 +19,17 @@ X
 .org/ctdl/self/linkedlist/DoublyLinkedList.java,f\8\f8922c3624183a9ad0227432969f0bdf3a0643f7
 U
 %org/ctdl/self/arrays/ArrayInJava.java,d\c\dc53e9d6ba82b7bdea39eb858b7bfb425943be2f
+|
+Lorg/ctdl/chapter1/input_and_output/fundamentals/QuestionAnswerInterview.java,1\8\181a2d538bbcc2211ae2281eb0a0388317609a69
+l
+<org/ctdl/chapter1/input_and_output/CommandsAndArguments.java,6\7\670dd3c80cfb18bd64fb53fb26cb5cd992df24b0
+i
+9org/ctdl/chapter1/input_and_output/fundamentals/tinyW.txt,6\3\63fdd53908de70f887cdff9c642ca8f806c95527
+q
+Aorg/ctdl/chapter1/input_and_output/fundamentals/BinarySearch.java,2\f\2f839193d37ca05528bbe1efef262f3460a3792b
+l
+<org/ctdl/chapter1/input_and_output/fundamentals/Counter.java,c\4\c4458e0b765c547cc6ae8a063eac0bd66dda031e
+q
+Aorg/ctdl/chapter1/input_and_output/fundamentals/QueueExample.java,5\8\5823295f21aca2d053b56fae6c5a2a55a859208a
+p
+@org/ctdl/chapter1/input_and_output/fundamentals/StackExamle.java,c\9\c9fdc9fcb7b2ff3f66befb656b5d89e2462df93c
